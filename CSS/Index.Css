@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+
+
+/* CABEÇALHO */
+
+
+
+body
+{
+background-color:rgb(173, 164, 164);
+
+}
+
+.Cabeçalho
+{
+
+    background-color:rgb(158, 158, 158);
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 90px;
+    border:solid
+
+}
+
+
+#Galeria
+{
+    border:solid;
+    border-radius: 30px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 140px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+#Texto_Galeria
+{
+   color: black;
+   font-style: italic;
+}
+
+
+#Curiosidades
+{
+    border:solid;
+    border-radius: 30px;
+    margin-left:  340px;
+    margin-top: -78px;
+    margin-bottom: 40px;
+    width: 290px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+#Texto_Curiosidades
+{
+   color: black;
+   font-style: italic;
+}
+
+
+#Produto
+{
+
+    border:solid;
+    border-radius: 30px;
+    margin-left: 690px;
+    margin-top: -98px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+#Texto_Produtos
+{
+color: black;
+font-style: italic;
+}
+
+
+
+
+/* FIM DO CABEÇALHO */
+
+
+
+/* CONTEÚDO */
+
+
+
+
+
+
+.Perguntas_Hades
+{
+ margin-top: 30px;
+ margin-left: 10px;
+ font-style: italic;  
+    
+}
+
+
+.Parágrafos_Perguntas
+{
+ margin-top: 20px;
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+ #Conteúdo
+ {
+ margin-left: 20px;
+margin-top: 203px;
+
+
+ }
+
+
+
+
+

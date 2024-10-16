@@ -1,0 +1,165 @@
+@charset "UTF-8";
+
+body{
+  background-color: darkgray;
+}
+/* Cabeçalho */
+
+.Cabeçalho
+{
+
+  background-color:rgb(158, 158, 158);
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 90px;
+  border:solid
+}
+
+#Index_botao
+{
+
+  border:solid;
+  border-radius: 30px;
+  margin-left: 880px;
+  margin-top: 19px;
+  margin-bottom: 20px;
+  width: 220px;
+  height: 51px;
+  text-align: center;
+  font-size: 36px;
+  background-color: bisque;
+}
+
+#Produtos_botao
+{
+  border:solid;
+  border-radius: 30px;
+  margin-left: 450px;
+  margin-top: -75px;
+  margin-bottom: 20px;
+  width: 220px;
+  height: 51px;
+  text-align: center;
+  font-size: 36px;
+  background-color: bisque;
+}
+
+
+#Galeria_botao
+{
+  border:solid;
+  border-radius: 30px;
+  margin-left: 120px;
+  margin-top: -75px;
+  margin-bottom: 20px;
+  width: 190px;
+  height: 51px;
+  text-align: center;
+  font-size: 36px;
+  background-color: bisque;
+}
+
+
+
+
+
+
+/* FIM DO CABEÇALHO */
+
+/* TÍTULO */
+
+#Titulo_Curiosidades
+{
+  margin-top: 200px;
+  text-align: center;
+}
+
+/* FIM DO TÍTULO */
+
+/* CONTEÚDO */
+
+
+h3#Suecia_Titulo
+{
+margin-left: 220px;
+margin-top:80px;
+
+
+}
+
+#Suecia
+{
+ margin-top: 0px;
+ height: 350px;
+ margin-left: 0px; 
+}
+
+
+
+
+
+h3#Noruega_Titulo
+{
+
+  margin-left: 850px;
+  margin-top:-400px
+
+}
+
+
+#Noruega
+{
+
+ height: 350px;
+ margin-left: 598px;
+ margin-top:0px;
+
+
+}
+
+
+h3#Finlandia_Titulo
+{
+
+  margin-top:20px;
+  margin-left: 200px;
+
+
+}
+
+
+#Finlandia
+{
+   height: 350px;
+   margin-top: 10px;
+
+
+
+}
+
+h3#Dinamarca_Titulo
+{
+
+  margin-left:870px;
+  margin-top:-390px;
+  
+
+}
+
+#Dinamarca
+{
+  height:350px ;
+  margin-left:600px;
+  margin-top:0px;
+
+
+
+
+
+}
+
+
+
+/* FIM DO CONTEÚDO */

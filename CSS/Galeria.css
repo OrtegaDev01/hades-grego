@@ -1,0 +1,358 @@
+@charset "utf-8";
+
+body
+{  
+    background-image: url(../Imagens/IMAGENS-FUNDO/wallpaperflare.com_wallpaper.jpg) ;
+    background: size 100%;
+    background-repeat: repeat;
+}
+
+
+/* CABEÇALHO */
+
+
+.Cabeçalho
+{
+
+background-color:rgb(158, 158, 158);
+position:fixed;
+top: 0;
+left: 0;
+right: 0;
+height: 90px;
+border:solid
+}
+
+#Produtos_botão
+{
+    border:solid;
+    border-radius: 30px;
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+
+#Index_botão
+{
+
+    border:solid;
+    border-radius: 30px;
+    margin-left: 880px;
+    margin-top: -60px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+#Curiosidades_botão
+{
+    border:solid;
+    border-radius: 30px;
+    margin-left: 80px;
+    margin-right: 380px;
+    margin-top: -75px;
+    margin-bottom: 0px;
+    width: 290px;
+    height: 51px;
+    text-align: center;
+    font-size: 36px;
+    background-color: bisque;
+}
+
+
+
+
+
+
+
+
+
+/* FIM DO CABEÇALHO */
+
+
+
+
+#TituloGaleria
+{
+font-style: italic;
+font-weight: bold;
+color: white;
+text-align: center;
+margin-top: 190px;
+}
+
+/* PERSEFONE */
+
+#Persefone
+{ 
+ 
+margin-bottom: -37px;
+margin-left: 18px;
+font-size: 26px;
+color:lightslategray
+}
+
+li#Persefone_listas{
+color:rgb(231, 231, 231);
+margin-left: 280px;
+margin-top: -250px;
+
+}
+
+
+#Hades_Persefone
+{
+    height: 300px;
+    margin-left:20px;
+}
+
+/* PERSEFONE_FIM */
+
+
+/* MACÁRIA */
+
+
+li#Makária_lista
+{
+
+    color:rgb(255, 255, 255);
+    margin-left: 350px;
+    margin-top: -250px;
+
+
+
+}
+
+
+h4#makária
+{
+    color: lightslategray;
+    font-size: 26px;
+    
+
+    margin-top: -230px;
+    
+
+    margin-left: 690px;
+  
+    }
+
+
+#hades_makária
+{
+
+    margin-top: -35px;
+    height: 320px;
+    margin-left: 690px;
+    margin-bottom: 0px
+
+}
+
+li#Makária_listas
+{
+
+    color: white;
+    margin-top: -260px;
+    margin-left: 950px;
+
+
+
+}
+
+
+
+
+/* FIM_MACÁRIA */
+
+/* Erínias */
+
+h4#erinias
+{
+color: lightslategray;
+font-size: 26px;
+margin-bottom: -180px;
+margin-top: 290px;
+margin-left: 20px;
+
+
+
+
+}
+
+#Hades_erinias
+{
+
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+li#Erinias_listas
+{
+    color: white;
+    margin-top:-220px ;
+    margin-left: 350px;
+
+}
+
+
+/* FIM_Erínias */
+
+
+
+
+
+
+
+/* Zagreus */
+
+li#Zagreus_lista
+{
+
+    margin-left: 980px;
+    color: white;
+    margin-top: -180px;
+
+}
+
+
+
+h4#Zagreus
+{
+   color: lightslategray;
+   font-size: 26px;
+   margin-left: 690px;
+   margin-top: -280px;
+   margin-bottom: 5px;
+
+}
+
+#Hades_zagreus
+{
+
+  height: 250px;
+  margin-left: 690px;
+  margin-top: 0px;
+
+
+
+}
+
+
+
+/* fim_zagreus */
+
+
+/* Zeus */
+
+li#Zeus_listas
+{
+
+color: white;
+margin-left: 280px;
+margin-top: -250px;
+
+
+}
+
+
+
+h4#Zeus
+{
+    
+    margin-left: 20px;
+    color:lightslategray;
+    font-size: 26px;
+    margin-top: 170px;
+    margin-bottom: -1px;
+
+}
+
+#hades_zeus
+{
+
+    height: 320px;
+    margin-left: 20px;
+
+
+
+}
+
+
+/* FIM_ZEUS */
+
+/* melione */
+
+li#melione_listas
+{
+color: white;
+margin-left: 960px;
+margin-top: -230px;
+}
+
+
+
+h4#Melione
+{
+    margin-top:-270px;
+    color: lightslategray;
+    margin-left: 710px;
+    font-size: 26px;
+
+}
+
+#Hades_Melione
+{
+    height: 300px;
+    margin-left: 710px;
+    margin-top: -30px;
+
+}
+/* fim_melione */
+
+
+/* Deméter */
+
+
+li#Demeter_listas
+{
+
+    color: white;
+    margin-left: 250px;
+    margin-top: -230px;
+
+}
+
+h4#deméter
+{
+    color: lightslategray;
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 180px;
+
+}
+
+
+
+
+#Hades_Deméter
+{
+    height: 300px;
+    margin-left: 20px;
+    margin-top: -30px;
+
+}
+
+
+
+/* Fim_deméter */
+
